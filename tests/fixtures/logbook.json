@@ -1,0 +1,35 @@
+{
+  "data": {
+    "logbooks": [
+      {
+        "id": "9001",
+        "title": "Free training",
+        "type": "GenericWorkout",
+        "performedOn": "2026-06-01 12:00:00 +03:00",
+        "partitionDate": 20260601,
+        "idCr": 9001,
+        "calories": 500,
+        "move": 400,
+        "duration": 3000,
+        "totalExeDone": 2,
+        "equipmentName": "Run Artis"
+      },
+      {
+        "id": "9000",
+        "title": "Quick Start",
+        "type": "Exercise",
+        "performedOn": "2026-06-02 08:00:00 +03:00",
+        "partitionDate": 20260602,
+        "idCr": 9000,
+        "calories": 100,
+        "move": 80,
+        "duration": 600,
+        "totalExeDone": 1,
+        "equipmentName": "Run Artis"
+      }
+    ]
+  },
+  "token": "SYNTHETIC",
+  "version": 1,
+  "currentUtcTimestamp": 1793000000
+}

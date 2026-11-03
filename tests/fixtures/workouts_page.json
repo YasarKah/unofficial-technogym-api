@@ -1,0 +1,21 @@
+{
+  "from": "20260101",
+  "to": "20261231",
+  "totalCount": 2,
+  "items": [
+    {
+      "id": "22222222-2222-2222-2222-222222222222",
+      "name": "Full Body",
+      "performedDate": "20261102",
+      "sessionType": "Strength",
+      "duration": 3600
+    },
+    {
+      "id": "33333333-3333-3333-3333-333333333333",
+      "name": "Morning Run",
+      "performedDate": "20261101",
+      "sessionType": "Cardio",
+      "duration": 1800
+    }
+  ]
+}

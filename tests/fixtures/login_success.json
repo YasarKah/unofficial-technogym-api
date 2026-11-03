@@ -1,0 +1,23 @@
+{
+  "accountConfirmed": true,
+  "result": "Success",
+  "token": "SYNTHETIC_TOKEN_aaaaaaaaaaaaaaaa.0000000000000000000000000000000000000000",
+  "userContext": {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "accountUsername": "testuser@example.com",
+    "credentialId": "11111111-1111-1111-1111-111111111111",
+    "firstName": "Test",
+    "lastName": "User",
+    "nickName": "tester",
+    "birthDate": "19900101",
+    "gender": "M",
+    "email": "testuser@example.com",
+    "measurementSystem": "Metric",
+    "defaultCulture": "en-US",
+    "timeZoneWindowsId": "UTC",
+    "displayBirthDate": "1.1.1990",
+    "userCultureInfo": "en-US",
+    "createdOn": "2026-01-01T00:00:00.000+00:00"
+  },
+  "facilities": []
+}

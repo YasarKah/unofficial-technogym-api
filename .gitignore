@@ -1,0 +1,38 @@
+# Decompiled / downloaded app packages (never commit)
+*.apk
+*.xapk
+*.apks
+*.aab
+/apk/
+/decompiled/
+/captures/
+/research/
+*.har
+*.mitm
+*.pcap
+cookies*.txt
+private-export*.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.token
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
